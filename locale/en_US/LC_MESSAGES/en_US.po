@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: omniva-telegram-bot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-14 14:23+0300\n"
+"PO-Revision-Date: 2021-09-14 14:28+0300\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: omniva-telegram-bot\n"
+"X-Crowdin-Project-ID: 476005\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: main.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"X-Generator: Poedit 3.0\n"
+
+#: main.py:57 main.py:92 main.py:106
+msgid "Select the language"
+msgstr ""
+"🇷🇺 Выберите удобный для вас язык\n"
+"🇬🇧 Please choose your language\n"
+"🇪🇪 Palun valige oma keel"
+
+#: main.py:58 buttons.py:82
+msgid "My packages"
+msgstr "📦 My packages"
+
+#: main.py:59 main.py:158
+msgid ""
+"{} | {}\n"
+"Latest information: \n"
+"Event: {} \n"
+"Date: {} \n"
+"Location: {}"
+msgstr ""
+"📦 {} | {}\n"
+"Latest information: \n"
+"Event:🚚 {} \n"
+"Date:🗓 {} \n"
+"Location:📍 {}"
+
+#: main.py:74 schedule.py:33
+msgid ""
+"{} | {}\n"
+"No information"
+msgstr ""
+"{} | {}\n"
+"🕐 No information"
+
+#: main.py:87
+msgid "First add the parcels. Just enter the track number in the messages"
+msgstr ""
+"First add the parcels. Just enter the tracking number in the messages field"
+
+#: main.py:91 buttons.py:83
+msgid "Language"
+msgstr "🇬🇧 Language"
+
+#: main.py:105
+msgid ""
+"Update:\n"
+"    - Added mandatory naming of parcels\n"
+"    - Bug fixes\n"
+"    - Added Help Button\n"
+"    - Added English language\n"
+"    - Added Estonian language\n"
+"If you encounter problems. Contact @paneelmaja"
+msgstr ""
+"🔄 Update:\n"
+"    - Added mandatory naming of parcels\n"
+"    - Bug fixes\n"
+"    - Added Help Button\n"
+"    - Added English language\n"
+"    - Added Estonian language\n"
+"If you encounter problems. Contact @paneelmaja"
+
+#: main.py:114 buttons.py:86
+msgid "Help"
+msgstr "🆘 Help"
+
+#: main.py:115
+msgid "Choose what the problem is"
+msgstr "Choose what the problem is"
+
+#: main.py:119 main.py:123
+msgid "Error: Check is that correct track number"
+msgstr "Error: Check if tracking number is correct"
+
+#: main.py:128
+#, python-format
+msgid "Enter a name for the track number %s"
+msgstr "Enter a name for the track number %s 🆕"
+
+#: main.py:135
+msgid "Error: Check is that correct name"
+msgstr "Error: Check is that correct name"
+
+#: main.py:137
+msgid "Wait, getting parcel information"
+msgstr "⌛️ Wait, getting parcel information"
+
+#: main.py:152
+msgid ""
+"We saved the track number and the bot will let you know as soon as there is "
+"any information"
+msgstr ""
+"We saved the track number and the bot will let you know as soon as there is "
+"any information 😌"
+
+#: main.py:168
+msgid "Error. If there is a problem, contact us @paneelmaja"
+msgstr "Error. If there is a problem, contact us @paneelmaja"
+
+#: main.py:195
+msgid "Translated by @zadex"
+msgstr "🇪🇪  🇬🇧 Translated by @zadex "
+
+#: main.py:196
+msgid "Hi. You can now enter the tracking number to track the parcel.\n"
+msgstr "Hi. You can now enter the tracking number to track the parcel.🔎\n"
+
+#: main.py:207
+msgid "Parcel deleted from bot database"
+msgstr "Parcel deleted from bot database"
+
+#: main.py:213
+msgid ""
+"Contacts Omniva:\n"
+"    Telephone: 661 6616\n"
+"    Email: info@omniva.ee\n"
+"    Mon-Fri 9:00-20:00\n"
+"    Sat-Sun and on public holidays 9:00-15:00"
+msgstr ""
+"Contact Omniva:\n"
+"    Telephone: 661 6616\n"
+"    Email: info@omniva.ee\n"
+"    Mon-Fri 9:00-20:00\n"
+"    Sat-Sun and on public holidays 9:00-15:00"
+
+#: main.py:219
+msgid ""
+"<b>Developer: Adam A.</b>\n"
+"  Telegram: @paneelmaja\n"
+"  Email: adam@cahlan.cc\n"
+"\n"
+"<b>Translated by @zadex</b>\n"
+"  Website: https://crowdin.com/profile/laurisade"
+msgstr ""
+"<b>Developer: Adam A. ☺️</b>\n"
+"  Telegram: @paneelmaja\n"
+"  Email: adam@cahlan.cc\n"
+"\n"
+"<b>Translated by @zadex 🧐</b>\n"
+"  Website: https://crowdin.com/profile/laurisade"
+
+#: buttons.py:10
+msgid "Russian"
+msgstr "🇷🇺 Русский"
+
+#: buttons.py:11
+msgid "English"
+msgstr "🇬🇧 English"
+
+#: buttons.py:12
+msgid "Estonian"
+msgstr "🇪🇪 Eesti"
+
+#: buttons.py:22 buttons.py:50
+msgid "More"
+msgstr "ℹ️ More"
+
+#: buttons.py:25
+msgid "Delete"
+msgstr "🗑 Delete"
+
+#: buttons.py:36
+msgid "Problems with the parcel"
+msgstr "Problems with the parcel"
+
+#: buttons.py:39
+msgid "Problems with the bot"
+msgstr ""
+
+#: buttons.py:60
+msgid "Write to the developer"
+msgstr ""
+
+#: buttons.py:71
+msgid "Cancel"
+msgstr "❌ Cancel"
+
+#: buttons.py:91
+msgid "Example: CE123456789EE"
+msgstr ""
+
+#: schedule.py:30
+msgid ""
+"New information: {} | {} \n"
+"Event: {} \n"
+"Date: {} \n"
+"Location: {}"
+msgstr ""
+"📦 {} | {}\n"
+"New information: \n"
+"Event:🚚 {} \n"
+"Date:🗓 {} \n"
+"Location:📍 {}"

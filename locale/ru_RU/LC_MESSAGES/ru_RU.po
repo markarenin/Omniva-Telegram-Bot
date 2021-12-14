@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Omniva\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-14 14:23+0300\n"
+"PO-Revision-Date: 2021-11-15 21:50+0200\n"
+"Last-Translator: \n"
+"Language-Team: CA «Hlan»\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#: main.py:57 main.py:92 main.py:106
+msgid "Select the language"
+msgstr ""
+"🇷🇺 Выберите удобный для вас язык.\n"
+"🇬🇧 Please choose your language.\n"
+"🇪🇪 Palun valige oma keel."
+
+#: main.py:58 buttons.py:82
+msgid "My packages"
+msgstr "📦 Мои посылки"
+
+#: main.py:59 main.py:158
+msgid ""
+"{} | {}\n"
+"Latest information: \n"
+"Event: {} \n"
+"Date: {} \n"
+"Location: {}"
+msgstr ""
+"📦 {} | {}\n"
+"Последняя информация: \n"
+"Событие:🚚 {} \n"
+"Дата:🗓 {} \n"
+"Местоположение:📍 {}"
+
+#: main.py:74 schedule.py:33
+msgid ""
+"{} | {}\n"
+"No information"
+msgstr ""
+"{} | {}\n"
+"🕐 Нет информации"
+
+#: main.py:87
+msgid "First add the parcels. Just enter the track number in the messages"
+msgstr "Сначала добавьте посылки. Просто введите трек номер в сообщениях"
+
+#: main.py:91 buttons.py:83
+msgid "Language"
+msgstr "🇷🇺 Язык"
+
+#: main.py:105
+msgid ""
+"Update:\n"
+"    - Added mandatory naming of parcels\n"
+"    - Bug fixes\n"
+"    - Added Help Button\n"
+"    - Added English language\n"
+"    - Added Estonian language\n"
+"If you encounter problems. Contact @paneelmaja"
+msgstr ""
+"🔄 Обновление:\n"
+"    - Добавлено обязательное именование посылок\n"
+"    - Исправления ошибок\n"
+"    - Добавлена кнопка помощи\n"
+"    - Добавлен английский язык\n"
+"    - Добавлен эстонский язык\n"
+"Если у вас возникли проблемы. Свяжитесь с @paneelmaja"
+
+#: main.py:114 buttons.py:86
+msgid "Help"
+msgstr "🆘 Помощь"
+
+#: main.py:115
+msgid "Choose what the problem is"
+msgstr "Выберите с какими проблемами вы столкнулись"
+
+#: main.py:119 main.py:123
+msgid "Error: Check is that correct track number"
+msgstr "🛑 Ошибка: Проверьте правильность написание трек номера"
+
+#: main.py:128
+#, python-format
+msgid "Enter a name for the track number %s"
+msgstr "Введите имя посылки %s 🆕"
+
+#: main.py:135
+msgid "Error: Check is that correct name"
+msgstr "🛑 Ошибка: имя слишком длинное либо слишком короткое"
+
+#: main.py:137
+msgid "Wait, getting parcel information"
+msgstr "⌛️ Ожидайте, получаем информацию о посылке"
+
+#: main.py:152
+msgid ""
+"We saved the track number and the bot will let you know as soon as there is "
+"any information"
+msgstr ""
+"Мы сохранили трек номер и бот сообщит о появлении новой информации сразу же 😌"
+
+#: main.py:168
+msgid "Error. If there is a problem, contact us @paneelmaja"
+msgstr "Ошибка. Свяжитесь с разработчиком @paneelmaja"
+
+#: main.py:195
+msgid "Translated by @zadex"
+msgstr "Разработчик @paneelmaja"
+
+#: main.py:196
+msgid "Hi. You can now enter the tracking number to track the parcel.\n"
+msgstr ""
+"Привет ✌️. Теперь вы можете ввести номер посылки, чтобы его отследить 🔎\n"
+
+#: main.py:207
+msgid "Parcel deleted from bot database"
+msgstr "Бот удалил посылку из базы. Бот не будет больше о ней напоминать"
+
+#: main.py:213
+msgid ""
+"Contacts Omniva:\n"
+"    Telephone: 661 6616\n"
+"    Email: info@omniva.ee\n"
+"    Mon-Fri 9:00-20:00\n"
+"    Sat-Sun and on public holidays 9:00-15:00"
+msgstr ""
+"Свяжитесь с Omniva:\n"
+"    Телефон: 661 6616\n"
+"    Email: info@omniva.ee\n"
+"    Пн-пт 9:00-20:00\n"
+"    Сб-вс и в праздники 9:00-15:00"
+
+#: main.py:219
+msgid ""
+"<b>Developer: Adam A.</b>\n"
+"  Telegram: @paneelmaja\n"
+"  Email: adam@cahlan.cc\n"
+"\n"
+"<b>Translated by @zadex</b>\n"
+"  Website: https://crowdin.com/profile/laurisade"
+msgstr ""
+"<b>Разработчик: Adam A. ☺️</b>\n"
+"  Telegram: @paneelmaja\n"
+"  Email: adam@cahlan.cc\n"
+"\n"
+"<b>Переводчик @zadex 🧐</b>\n"
+"  Сайт: https://crowdin.com/profile/laurisade"
+
+#: buttons.py:10
+msgid "Russian"
+msgstr "🇷🇺 Русский"
+
+#: buttons.py:11
+msgid "English"
+msgstr "🇬🇧 English"
+
+#: buttons.py:12
+msgid "Estonian"
+msgstr "🇪🇪 Eesti"
+
+#: buttons.py:22 buttons.py:50
+msgid "More"
+msgstr "ℹ️ Подробнее"
+
+#: buttons.py:25
+msgid "Delete"
+msgstr "🗑 Удалить"
+
+#: buttons.py:36
+msgid "Problems with the parcel"
+msgstr "Проблемы с посылкой"
+
+#: buttons.py:39
+msgid "Problems with the bot"
+msgstr "Проблемы с ботом"
+
+#: buttons.py:60
+msgid "Write to the developer"
+msgstr "Написать разработчику"
+
+#: buttons.py:71
+msgid "Cancel"
+msgstr "❌ Отменить"
+
+#: buttons.py:91
+msgid "Example: CE123456789EE"
+msgstr "Пример: CE123456789EE 🔢"
+
+#: schedule.py:30
+msgid ""
+"New information: {} | {} \n"
+"Event: {} \n"
+"Date: {} \n"
+"Location: {}"
+msgstr ""
+"📦 {} | {}\n"
+"Новая информация: \n"
+"Событие:🚚 {} \n"
+"Дата:🗓 {} \n"
+"Местоположение:📍 {}"
+
+#~ msgid "Error"
+#~ msgstr "🛑 Ошибка"

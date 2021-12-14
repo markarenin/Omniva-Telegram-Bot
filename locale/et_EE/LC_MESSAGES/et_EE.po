@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: omniva-telegram-bot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-14 14:23+0300\n"
+"PO-Revision-Date: 2021-09-14 14:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: Estonian\n"
+"Language: et_EE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: omniva-telegram-bot\n"
+"X-Crowdin-Project-ID: 476005\n"
+"X-Crowdin-Language: et\n"
+"X-Crowdin-File: main.pot\n"
+"X-Crowdin-File-ID: 5\n"
+"X-Generator: Poedit 3.0\n"
+
+#: main.py:57 main.py:92 main.py:106
+msgid "Select the language"
+msgstr ""
+"🇷🇺 Выберите удобный для вас язык.\n"
+"🇬🇧 Please choose your language.\n"
+"🇪🇪 Palun valige oma keel."
+
+#: main.py:58 buttons.py:82
+msgid "My packages"
+msgstr "📦 Minu pakid"
+
+#: main.py:59 main.py:158
+msgid ""
+"{} | {}\n"
+"Latest information: \n"
+"Event: {} \n"
+"Date: {} \n"
+"Location: {}"
+msgstr ""
+"📦 {} | {}\n"
+"Viimased andmed: \n"
+"Sündmus:🚚 {} \n"
+"Kuupäev:🗓 {} \n"
+"Asukoht:📍 {}"
+
+#: main.py:74 schedule.py:33
+msgid ""
+"{} | {}\n"
+"No information"
+msgstr ""
+"{} | {}\n"
+"🕐 Andmed puuduvad"
+
+#: main.py:87
+msgid "First add the parcels. Just enter the track number in the messages"
+msgstr "Alustamiseks saada botile paki jälgimiskood"
+
+#: main.py:91 buttons.py:83
+msgid "Language"
+msgstr "🇪🇪 Keel"
+
+#: main.py:105
+msgid ""
+"Update:\n"
+"    - Added mandatory naming of parcels\n"
+"    - Bug fixes\n"
+"    - Added Help Button\n"
+"    - Added English language\n"
+"    - Added Estonian language\n"
+"If you encounter problems. Contact @paneelmaja"
+msgstr ""
+"🔄 Uuendus\n"
+"    - Pakkidele saab nüüd nime anda (nõutav)\n"
+"    - Veaparandused\n"
+"    - Lisasime Abi nupu\n"
+"    - Rakendus on nüüd saadaval inglise keeles\n"
+"    - Rakendus on nüüd saadaval eesti keeles\n"
+"Probleemide korral võta ühendust @paneelmaja"
+
+#: main.py:114 buttons.py:86
+msgid "Help"
+msgstr "🆘 Abi"
+
+#: main.py:115
+msgid "Choose what the problem is"
+msgstr "Vali probleem"
+
+#: main.py:119 main.py:123
+msgid "Error: Check is that correct track number"
+msgstr "Viga: Veendu, et jälgimiskood on korrektne"
+
+#: main.py:128
+#, python-format
+msgid "Enter a name for the track number %s"
+msgstr "Sisesta jälgimiskoodile %s nimi"
+
+#: main.py:135
+msgid "Error: Check is that correct name"
+msgstr "Viga: Veendu, et nimi on korrektne"
+
+#: main.py:137
+msgid "Wait, getting parcel information"
+msgstr "⌛️ Oota, toimub paki otsimine"
+
+#: main.py:152
+msgid ""
+"We saved the track number and the bot will let you know as soon as there is "
+"any information"
+msgstr "Paki jälgimiskood on salvestatud. Bot hoiab sind uuendustega kursis 😌"
+
+#: main.py:168
+msgid "Error. If there is a problem, contact us @paneelmaja"
+msgstr "Viga. Kui tekkis probleem, võta ühendust @paneelmaja"
+
+#: main.py:195
+msgid "Translated by @zadex"
+msgstr "Tõlke autor @zadex"
+
+#: main.py:196
+msgid "Hi. You can now enter the tracking number to track the parcel.\n"
+msgstr "Tervitus! Võid nüüd paki jälgimiskoodi sisestada.🔎\n"
+
+#: main.py:207
+msgid "Parcel deleted from bot database"
+msgstr "Pakk on boti andmebaasist kustutatud"
+
+#: main.py:213
+msgid ""
+"Contacts Omniva:\n"
+"    Telephone: 661 6616\n"
+"    Email: info@omniva.ee\n"
+"    Mon-Fri 9:00-20:00\n"
+"    Sat-Sun and on public holidays 9:00-15:00"
+msgstr ""
+"Omniva kontaktandmed:\n"
+"    Telefon: 661 6616\n"
+"    E-post: info@omniva.ee\n"
+"    E-R 9:00-20:00\n"
+"    L-P ja riigipühadel 9:00-15:00"
+
+#: main.py:219
+msgid ""
+"<b>Developer: Adam A.</b>\n"
+"  Telegram: @paneelmaja\n"
+"  Email: adam@cahlan.cc\n"
+"\n"
+"<b>Translated by @zadex</b>\n"
+"  Website: https://crowdin.com/profile/laurisade"
+msgstr ""
+"<b>Arendaja: Adam A.☺️</b>\n"
+"  Telegram: @paneelmaja\n"
+"  E-post: adam@cahlan.cc\n"
+"\n"
+"<b>Tõlke autor @zadex 🧐</b>\n"
+"  Veebileht: https://crowdin.com/profile/laurisade"
+
+#: buttons.py:10
+msgid "Russian"
+msgstr "🇷🇺 Русский"
+
+#: buttons.py:11
+msgid "English"
+msgstr "🇬🇧 English"
+
+#: buttons.py:12
+msgid "Estonian"
+msgstr "🇪🇪 Eesti"
+
+#: buttons.py:22 buttons.py:50
+msgid "More"
+msgstr "ℹ️ Rohkem"
+
+#: buttons.py:25
+msgid "Delete"
+msgstr "🗑 Kustuta"
+
+#: buttons.py:36
+msgid "Problems with the parcel"
+msgstr "Selle pakiga tekkis probleeme"
+
+#: buttons.py:39
+msgid "Problems with the bot"
+msgstr "Botiga tekkis probleeme"
+
+#: buttons.py:60
+msgid "Write to the developer"
+msgstr "Kirjuta arendajale"
+
+#: buttons.py:71
+msgid "Cancel"
+msgstr "❌ Tühista"
+
+#: buttons.py:91
+msgid "Example: CE123456789EE"
+msgstr "Näiteks: CE123456789EE"
+
+#: schedule.py:30
+msgid ""
+"New information: {} | {} \n"
+"Event: {} \n"
+"Date: {} \n"
+"Location: {}"
+msgstr ""
+"📦 {} | {}\n"
+"Andmed on uuenenud: \n"
+"Sündmus:🚚 {} \n"
+"Kuupäev:🗓 {} \n"
+"Asukoht:📍 {}"
